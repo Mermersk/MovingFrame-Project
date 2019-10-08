@@ -1,0 +1,26 @@
+{
+  "name": "movingframe-project",
+  "version": "1.0.0",
+  "description": "Moving frame simulation",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mermersk/MovingFrame-Project.git"
+  },
+  "keywords": [
+    "Simulation",
+    "ThreeJS"
+  ],
+  "author": "Isak and Jelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mermersk/MovingFrame-Project/issues"
+  },
+  "homepage": "https://github.com/Mermersk/MovingFrame-Project#readme",
+  "dependencies": {
+    "watchify": "^3.11.1"
+  }
+}
